@@ -19,7 +19,7 @@ openpyxl (for Excel export)
 A Gmail account with an app password for sending emails (see Configure Gmail).
 Installation
 Clone the repository to your local machine:
-git clone https://github.com/your-username/leboncoin-scraper.git
+git clone https://github.com/youssefbent/leboncoin-scraper.git
 cd leboncoin-scraper
 Create a virtual environment (recommended):
 python -m venv venv
